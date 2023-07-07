@@ -8,8 +8,9 @@
 
 nav{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
     
 }
 .maruf{
@@ -41,5 +42,28 @@ nav li:hover{
     background-color: aqua;
     
     
+}
+.headclass{
+    background-color: antiquewhite;
+
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.btn{
+        padding: 10px 12px;
+        background-color: black;
+        
+        color: aliceblue;
+}
+.propic{
+    width: 400px;
+}
+.hcontent{
+    text-align: center;
 }
 
