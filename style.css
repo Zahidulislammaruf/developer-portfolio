@@ -8,6 +8,8 @@
 
 nav{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
     
 }
 .maruf{
@@ -21,17 +23,23 @@ nav{
 }
 nav > ul{
     display: flex;
+    
 }
 nav li{
     list-style: none;
     margin-right: 50px;
-    padding: 3px 3px;
+    border: 5px 5px;
+    padding: 5px 5px;
 }
-nav li:hover{
-    background-color: black;
-}
+
 nav a{
     text-decoration: none;
-    color: black;
+    color: red;
+    
+}
+nav li:hover{
+    background-color: aqua;
+    
+    
 }
 
