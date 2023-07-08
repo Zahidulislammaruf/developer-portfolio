@@ -103,4 +103,10 @@ main{
     display: flex;
     justify-content: space-around;
 }
+.about-info{
+    text-align: center;
+}
+#secwhat{
+    padding: 30px 150px;
+}
 
