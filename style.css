@@ -131,4 +131,33 @@ main section{
     font-weight: 700;
 
 }
+.rescon{
+    display: flex;
+    gap: 50px;
+
+}
+.rescon hr{
+    margin: 30px;
+}
+.resi-info{
+    color: #757575;
+    color: 20px;
+}
+.resi-com{
+    color: #757575;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.resititle{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+.downloadcv{
+    text-align: center;
+    margin-top: 50px;
+}
 
