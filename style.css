@@ -4,6 +4,19 @@
 .text-primary{
     color: #fd6e0a;
 }
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+.secdes{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    
+}
 
 
 nav{
@@ -50,7 +63,7 @@ nav li:hover{
     background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 0 150px;
+    
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -74,5 +87,12 @@ nav li:hover{
 .b2{
     font-size: 85px;
     font-weight: 700;
+}
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #fff8f3;
+    margin-top: 130px 0;
+
 }
 
