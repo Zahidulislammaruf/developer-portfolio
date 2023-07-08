@@ -95,4 +95,12 @@ nav li:hover{
     margin-top: 130px 0;
 
 }
+main{
+    width: 1140px;
+    margin: 0 auto;
+}
+.about-con{
+    display: flex;
+    justify-content: space-around;
+}
 
